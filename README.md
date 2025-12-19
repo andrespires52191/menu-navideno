@@ -11,3 +11,5 @@ Incluye el menú y un formulario para confirmar la asistencia.
 Publica la página en GitHub Pages de modo que sea accesible desde cualquier lugar.
 
 Incluye el enlace a la página al final de este README.
+
+https://andrespires52191.github.io/menu-navideno/
